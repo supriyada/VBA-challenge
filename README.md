@@ -8,10 +8,10 @@ The first part of this project computes the yearly change in stock value, percen
 
 The second part of this project computes the stock with greatest percentage increase, greatest percentage decrease and greatest total volume from the output dataset of the first part.
 
-#The input data resource files:
+The input data resource files:
 	* alphabetical_testing.xlsx --> used as sample while developing scripts.
 	* Multiple_year_stock_data.xlsx	--> Fully functional script is run on this file to generate the final report.
 
-#After successful completion of the script on one sheet, looped it through all the sheets.
-#The VBA script works successfully across multiple worksheets of data in Multiple_year_stock_data.xlsx.
-#The screenshots of the succesful outcomes are also captured and included.
+After successful completion of the script on one sheet, looped it through all the sheets.
+The VBA script works successfully across multiple worksheets of data in Multiple_year_stock_data.xlsx.
+The screenshots of the succesful outcomes are also captured and included.
