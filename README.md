@@ -13,5 +13,7 @@ The input data resource files:
 	* Multiple_year_stock_data.xlsx	--> Fully functional script is run on this file to generate the final report.
 
 After successful completion of the script on one sheet, looped it through all the sheets.
+
 The VBA script works successfully across multiple worksheets of data in Multiple_year_stock_data.xlsx.
+
 The screenshots of the succesful outcomes are also captured and included.
